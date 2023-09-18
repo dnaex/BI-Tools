@@ -1,2 +1,2 @@
 # BI-Tools
-This repository
+This repository contains tips and tricks for business intelligence tools.
